@@ -625,4 +625,40 @@
 [2015.12.19-07.11.46:407][539]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.852
 [2015.12.19-07.11.46:407][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
 [2015.12.19-07.12.21:730][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
-[2015.12.19-07.12.21:770][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/S
+[2015.12.19-07.12.21:770][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.12.21:780][774]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000027B328609A0
+[2015.12.19-07.12.24:297][984]LogSavePackage: Save=312.612091ms
+[2015.12.19-07.12.24:297][984]LogSavePackage: Moving '../../../../../../Keeta/Documents/Unreal Projects/BoardThePlatforms/Saved/SideScrollerExampleMap0988280B4D66AEC3A62CD6B119BD3925.tmp' to '../../../../../../Keeta/Documents/Unreal Projects/BoardThePlatforms/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2015.12.19-07.12.24:301][984]LogSavePackage: Total save time: 317.852862ms
+[2015.12.19-07.12.24:301][984]LogSavePackage:Display: Finished SavePackage ../../../../../../Keeta/Documents/Unreal Projects/BoardThePlatforms/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2015.12.19-07.16.35:812][361]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.16.35:812][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.12.19-07.16.35:812][361]PIE: New page: PIE session: SideScrollerExampleMap (Dec 18, 2015, 9:16:35 PM)
+[2015.12.19-07.16.35:812][361]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2015.12.19-07.16.35:825][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012945s)
+[2015.12.19-07.16.35:826][361]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2015.12.19-07.16.35:826][361]LogPlayLevel: PIE: World Init took: (0.001139s)
+[2015.12.19-07.16.35:827][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014304s)
+[2015.12.19-07.16.35:842][361]LogInit: XAudio2 using 'Speakers (Siberia V2 Illuminated)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2015.12.19-07.16.35:848][361]LogInit: FAudioDevice initialized.
+[2015.12.19-07.16.35:879][361]LogWorld: Game class is 'SideScrollerGameMode_C'
+[2015.12.19-07.16.35:886][361]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2015.12.19-02.16.35
+[2015.12.19-07.16.35:886][361]LogActor:Warning: GameSession /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.GameSession_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.12.19-07.16.35:887][361]LogActor:Warning: GameNetworkManager /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.GameNetworkManager_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.12.19-07.16.35:887][361]LogWorld: Bringing up level for play took: 0.007087
+[2015.12.19-07.16.35:888][361]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.333
+[2015.12.19-07.16.35:888][361]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.16.38:367][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.16.38:410][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.16.38:420][655]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000027B52333B00
+[2015.12.19-07.16.41:516][981]MapCheck: New page: Map Check
+[2015.12.19-07.16.41:532][981]Cmd: MAP REBUILD ALLVISIBLE
+[2015.12.19-07.16.41:532][981]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2015.12.19-07.16.41:543][981]LightingResults: New page: Lighting Build - Dec 18, 2015, 9:16:41 PM
+[2015.12.19-07.16.46:063][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2015.12.19-07.16.46:064][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2015.12.19-07.16.46:064][981]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2015.12.19-07.16.46:064][981]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2015.12.19-07.16.46:064][981]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2015.12.19-07.16.46:183][981]LogEditorBuildUtils: Build time 0:00:04
+[2015.12.19-07.16.53:440][660]Job is a success!
