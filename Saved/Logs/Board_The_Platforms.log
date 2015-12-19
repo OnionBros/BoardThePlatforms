@@ -545,4 +545,84 @@
 [2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset' is outside repository
 [2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset' is outside repository
 [2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset' is outside repository
-[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/Tu
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset' is outside repository
+[2015.12.19-07.02.34:819][775]SourceControl: Info fatal: F:/Program Files (x86)/Epic Games/4.10/Engine/Content/: 'F:/Program Files (x86)/Epic Games/4.10/Engine/Content/' is outside repository
+[2015.12.19-07.03.02:050][775]LogSourceControl: FGitCheckInWorker: commit successful
+[2015.12.19-07.03.02:061][775]SourceControl: Info [master 3a61106] Added second block
+[2015.12.19-07.03.02:061][775]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2015.12.19-07.03.02:066][775]SourceControl: Info Commited [master 3a61106] Added second block.
+[2015.12.19-07.10.27:833][326]LogActorFactory: Actor Factory created Cone
+[2015.12.19-07.10.31:038][640]LogActorFactory: Actor Factory created Cone
+[2015.12.19-07.11.00:325][839]MapCheck: New page: Map Check
+[2015.12.19-07.11.00:350][839]Cmd: MAP REBUILD ALLVISIBLE
+[2015.12.19-07.11.00:350][839]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2015.12.19-07.11.00:361][839]LightingResults: New page: Lighting Build - Dec 18, 2015, 9:11:00 PM
+[2015.12.19-07.11.04:886][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2015.12.19-07.11.04:886][839]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2015.12.19-07.11.04:886][839]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2015.12.19-07.11.04:886][839]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2015.12.19-07.11.04:886][839]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2015.12.19-07.11.04:996][839]LogEditorBuildUtils: Build time 0:00:04
+[2015.12.19-07.11.11:855][480]Job is a success!
+[2015.12.19-07.11.12:332][481]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2015.12.19-07.11.12:579][481]LogTexture:Display: Building textures: LQ_Lightmap_0_6 (DXT1)
+[2015.12.19-07.11.12:582][481]LogTexture:Display: Building textures: HQ_Lightmap0_6 (AutoDXT)
+[2015.12.19-07.11.12:582][481]LogTexture:Display: Building textures: SkyOcclusion0_6 (AutoDXT)
+[2015.12.19-07.11.12:585][481]LogTexture:Display: Building textures: LQ_Lightmap_1_5 (DXT1)
+[2015.12.19-07.11.12:591][481]LogTexture:Display: Building textures: HQ_Lightmap1_5 (AutoDXT)
+[2015.12.19-07.11.12:604][481]LogTexture:Display: Building textures: SkyOcclusion1_5 (AutoDXT)
+[2015.12.19-07.11.12:614][481]LogTexture:Display: Building textures: LQ_Lightmap_1_4 (DXT1)
+[2015.12.19-07.11.12:619][481]LogTexture:Display: Building textures: HQ_Lightmap1_4 (AutoDXT)
+[2015.12.19-07.11.12:631][481]LogTexture:Display: Building textures: SkyOcclusion1_4 (AutoDXT)
+[2015.12.19-07.11.12:642][481]LogTexture:Display: Building textures: LQ_Lightmap_1_3 (DXT1)
+[2015.12.19-07.11.12:646][481]LogTexture:Display: Building textures: HQ_Lightmap1_3 (AutoDXT)
+[2015.12.19-07.11.12:662][481]LogTexture:Display: Building textures: SkyOcclusion1_3 (AutoDXT)
+[2015.12.19-07.11.12:676][481]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2015.12.19-07.11.12:726][481]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2015.12.19-07.11.12:851][481]LogTexture:Display: Building textures: SkyOcclusion1_2 (AutoDXT)
+[2015.12.19-07.11.12:920][481]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2015.12.19-07.11.13:115][481]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2015.12.19-07.11.13:993][481]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2015.12.19-07.11.14:150][481]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2015.12.19-07.11.14:170][481]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2015.12.19-07.11.14:176][481]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2015.12.19-07.11.14:184][481]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2015.12.19-07.11.14:185][481]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8)
+[2015.12.19-07.11.14:200][481]Lightmass on KAZTALEK: 8.88 sec total, 82 ms importing, 1 ms setup, 785 ms photons, 8.00 sec processing, 0 ms extra exporting [19/19 mappings]. Threads: 31.9 sec total, 8.18 sec processing.
+[2015.12.19-07.11.14:215][481]LogStaticLightingSystem: Illumination: 13.8 sec (2.19 sec encoding lightmaps)
+[2015.12.19-07.11.14:215][481]LogStaticLightingSystem: Lightmap texture memory:  6.9 MB (6.9 MB streaming, 0.0 MB non-streaming), 12 textures
+[2015.12.19-07.11.14:215][481]LogStaticLightingSystem: Shadowmap texture memory: 6.9 MB (6.9 MB streaming, 0.0 MB non-streaming), 12 textures
+[2015.12.19-07.11.14:908][482]Cmd: MAP CHECK NOTIFYRESULTS
+[2015.12.19-07.11.14:909][482]MapCheck: New page: SideScrollerExampleMap - Dec 18, 2015, 9:11:14 PM
+[2015.12.19-07.11.15:016][482]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 107.919ms to complete.
+[2015.12.19-07.11.29:523][867]LogSavePackage: Save=130.302475ms
+[2015.12.19-07.11.29:523][867]LogSavePackage: Moving '../../../../../../Keeta/Documents/Unreal Projects/BoardThePlatforms/Saved/SideScrollerExampleMap_Auto1633C503B4D8D52CCF07753B341896657.tmp' to '../../../../../../Keeta/Documents/Unreal Projects/BoardThePlatforms/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2015.12.19-07.11.29:524][867]LogSavePackage: Total save time: 142.107386ms
+[2015.12.19-07.11.29:524][867]LogSavePackage:Display: Finished SavePackage ../../../../../../Keeta/Documents/Unreal Projects/BoardThePlatforms/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap
+[2015.12.19-07.11.29:525][867]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.170
+[2015.12.19-07.11.29:525][867]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.170
+[2015.12.19-07.11.46:321][539]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.11.46:321][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.12.19-07.11.46:321][539]PIE: New page: PIE session: SideScrollerExampleMap (Dec 18, 2015, 9:11:46 PM)
+[2015.12.19-07.11.46:321][539]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2015.12.19-07.11.46:343][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021576s)
+[2015.12.19-07.11.46:343][539]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2015.12.19-07.11.46:343][539]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2015.12.19-07.11.46:344][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.022662s)
+[2015.12.19-07.11.46:358][539]LogInit: XAudio2 using 'Speakers (Siberia V2 Illuminated)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2015.12.19-07.11.46:364][539]LogInit: FAudioDevice initialized.
+[2015.12.19-07.11.46:398][539]LogWorld: Game class is 'SideScrollerGameMode_C'
+[2015.12.19-07.11.46:405][539]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2015.12.19-02.11.46
+[2015.12.19-07.11.46:405][539]LogActor:Warning: GameSession /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.GameSession_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.12.19-07.11.46:405][539]LogActor:Warning: GameNetworkManager /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.GameNetworkManager_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.12.19-07.11.46:406][539]LogWorld: Bringing up level for play took: 0.006875
+[2015.12.19-07.11.46:407][539]PIE: Info Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.852
+[2015.12.19-07.11.46:407][539]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.12.21:730][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2015.12.19-07.12.21:770][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/S
